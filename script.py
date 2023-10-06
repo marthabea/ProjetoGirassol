@@ -9,7 +9,7 @@ pytesseract.pytesseract.tesseract_cmd = "C:\Program Files\Tesseract-OCR\\tessera
 
 # configuração para interpretar letras cursivas em português
 
-# config_port = r'--oem 3 --psm 6 -l por'
+config_port = r'--oem 3 --psm 6 -l por'
 result_transf_img = pytesseract.image_to_string(img)
 
 
