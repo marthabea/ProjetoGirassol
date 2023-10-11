@@ -2,7 +2,7 @@ import cv2
 import pytesseract
 
 # Abrir o arquivo
-image = cv2.imread("teste_letras.png")
+image = cv2.imread("img\\teste_letras.png")
 
 # caminho do executável do tesseract
 pytesseract.pytesseract.tesseract_cmd = "C:\Program Files\Tesseract-OCR\\tesseract.exe"
