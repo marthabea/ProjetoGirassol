@@ -5,7 +5,7 @@
 
 > O propósito principal do desenvolvimento da Inteligência Artificial no projeto Girassol é aprimorar a interpretação de documentos manuscritos digitalizados, reduzindo a necessidade de intervenção manual e, assim, impulsionando efetivamente a produtividade.
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+<b>O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas: </b>
 
 
 - [X] Identificar e discutir sobre quais tecnologias serão utilizadas para o desenvolvimento do projeto.
